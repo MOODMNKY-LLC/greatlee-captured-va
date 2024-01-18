@@ -69,7 +69,7 @@ export default function App({ Component, pageProps }: AppProps) {
         apiHost="https://flowise-workstation.moodmnky.com"
         theme={{
           button: {
-            backgroundColor: "#193F4E",
+            backgroundColor: "#99C9A3",
             right: 20,
             bottom: 20,
             size: "medium",
@@ -87,13 +87,13 @@ export default function App({ Component, pageProps }: AppProps) {
               backgroundColor: "#2F3437",
               textColor: "#FFFFFF",
               showAvatar: true,
-              avatarSrc: "https://cdn.discordapp.com/attachments/1083532452347269220/1192490146281574442/litlaw-avatar-headshot2.png",
+              avatarSrc: "https://cdn.discordapp.com/attachments/1083532452347269220/1197594187890180106/greatlee-favicon.png",
             },
             userMessage: {
               backgroundColor: "#539997",
               textColor: "#ffffff",
               showAvatar: true,
-              avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png",
+              avatarSrc: "https://cdn.discordapp.com/attachments/1083532452347269220/1197594187890180106/greatlee-favicon.png",
             },
             textInput: {
               placeholder: "Type your question",
